@@ -1,2 +1,6 @@
 # Edutech2022
-Projetos do edutech games e programação 
+Projetos do Edutech - games e programação
+ 
+Escola Estadual Machado de Assis
+
+Professor: Marcos  Ferreira Codato
